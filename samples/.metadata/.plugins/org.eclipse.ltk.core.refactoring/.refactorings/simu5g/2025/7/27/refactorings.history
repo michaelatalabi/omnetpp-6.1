@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;simu5g/simulations/NR/results&apos; to &apos;result&apos;" description="Rename resource &apos;results&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="simulations/NR/results" name="result" stamp="1751550830704" updateReferences="true"/>
+</session>

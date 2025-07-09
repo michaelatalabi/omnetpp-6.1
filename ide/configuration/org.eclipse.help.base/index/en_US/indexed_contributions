@@ -1,0 +1,21 @@
+#This is a generated file; do not edit.
+#Thu Jul 03 11:22:17 UTC 2025
+org.eclipse.cdt.doc.user=org.eclipse.cdt.doc.user\n11.6.1.202406241230
+org.eclipse.egit.doc=org.eclipse.egit.doc\n7.0.0.202409031743-r
+org.eclipse.epp.mpc.help.ui=org.eclipse.epp.mpc.help.ui\n1.11.0.v20240709-0639
+org.eclipse.epp.mpc.ui=org.eclipse.epp.mpc.ui\n1.11.0.v20240709-0639
+org.eclipse.help=org.eclipse.help\n3.10.400.v20240415-0528
+org.eclipse.help.base=org.eclipse.help.base\n4.4.500.v20240903-0240
+org.eclipse.linuxtools.profiling.docs=org.eclipse.linuxtools.profiling.docs\n1.0.0.202409032037
+org.eclipse.linuxtools.valgrind.doc=org.eclipse.linuxtools.valgrind.doc\n1.0.0.202409032037
+org.eclipse.platform=org.eclipse.platform\n4.33.0.v20240903-0240
+org.eclipse.platform.doc.user=org.eclipse.platform.doc.user\n4.33.0.v20240823-1014
+org.eclipse.ui.cheatsheets=org.eclipse.ui.cheatsheets\n3.8.500.v20240621-0541
+org.eclipse.ui.intro=org.eclipse.ui.intro\n3.7.400.v20240414-0828
+org.eclipse.ui.intro.universal=org.eclipse.ui.intro.universal\n3.5.400.v20240414-1916
+org.eclipse.wst.dtdeditor.doc.user=org.eclipse.wst.dtdeditor.doc.user\n1.1.0.v201903222120
+org.eclipse.wst.sse.doc.user=org.eclipse.wst.sse.doc.user\n1.2.0.v201903222120
+org.eclipse.wst.xmleditor.doc.user=org.eclipse.wst.xmleditor.doc.user\n1.1.0.v201903222120
+org.eclipse.wst.xsdeditor.doc.user=org.eclipse.wst.xsdeditor.doc.user\n1.0.800.v201903222120
+org.omnetpp.doc=org.omnetpp.doc\n6.1.0.241008-f7568267cd
+org.python.pydev.help=org.python.pydev.help\n12.2.0.202409031913

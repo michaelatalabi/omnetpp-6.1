@@ -1,0 +1,10 @@
+15:33:42 **** Incremental Build of configuration gcc-release for project simu5g ****
+make MODE=release all 
+make[1]: Entering directory '/data/project/omnetpp-6.1/samples/simu5g/src'
+Creating shared library: ../out/clang-release/src/libsimu5g.so
+Makefile:427: warning: pattern recipe did not update peer target '../out/clang-release/src/libsimu5g.dll.a'.
+Makefile:427: warning: pattern recipe did not update peer target '../out/clang-release/src/libsimu5g.def'.
+make[1]: Leaving directory '/data/project/omnetpp-6.1/samples/simu5g/src'
+
+15:33:43 Build Finished. 0 errors, 2 warnings. (took 579ms)
+

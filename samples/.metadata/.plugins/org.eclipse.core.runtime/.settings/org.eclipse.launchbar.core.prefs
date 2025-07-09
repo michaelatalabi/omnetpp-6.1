@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=aarch64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:NR,org.eclipse.launchbar.core.descriptorType.default\:standalone_multicell,org.eclipse.launchbar.core.descriptorType.default\:pcaprecording
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:NR/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:NR/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:standalone_multicell/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:standalone_multicell/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=/data/project/omnetpp-6.1/bin/opp_ide
+Icon=/data/project/omnetpp-6.1/images/logo/logo128.png
+Name=OMNeT++ 6.1 IDE
+Categories=Development
