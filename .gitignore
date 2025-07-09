@@ -1,0 +1,4 @@
+# ignore OMNeT++ build output
+samples/**/out/
+lib/*.so
+ide/plugins/**/modules

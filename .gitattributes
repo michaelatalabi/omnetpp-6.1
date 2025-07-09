@@ -1,3 +1,5 @@
 *.so filter=lfs diff=lfs merge=lfs -text
+ide/plugins/**/modules filter=lfs diff=lfs merge=lfs -text
 **/modules filter=lfs diff=lfs merge=lfs -text
+**.pdom filter=lfs diff=lfs merge=lfs -text
 *.pdom filter=lfs diff=lfs merge=lfs -text

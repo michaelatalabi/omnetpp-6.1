@@ -1,5 +1,0 @@
-out/clang-release//HttpMsg_m.o: HttpMsg_m.cc HttpMsg_m.h \
-  /data/project/omnetpp-6.1/include/omnetpp.h NetPkt_m.h
-HttpMsg_m.h:
-/data/project/omnetpp-6.1/include/omnetpp.h:
-NetPkt_m.h:

@@ -1,7 +1,0 @@
-out/clang-debug//Arc.o: Arc.cc \
-  /data/project/omnetpp-6.1/include/omnetpp.h Transition.h ITransition.h \
-  TransitionScheduler.h
-/data/project/omnetpp-6.1/include/omnetpp.h:
-Transition.h:
-ITransition.h:
-TransitionScheduler.h:
