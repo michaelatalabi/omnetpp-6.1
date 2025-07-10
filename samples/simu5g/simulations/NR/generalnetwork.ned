@@ -68,8 +68,8 @@ network Hybrid5GSatNetwork
         // Fan-out for SGi/N6 so two campus routers can share the UPF
         sgiSwitch: EthernetSwitch                   { @display("p=500,450"); }
 
-        aircraft[numAircraft]: StandardHost      { @display("i=vehicle/airplane;p=rand"); }
-        sat[numSat]:        StandardHost         { @display("i=weather/satellite;p=rand"); }
+        aircraft[numAircraft]: Router      { @display("i=vehicle/airplane;p=rand"); }
+        sat[numSat]: Router         { @display("i=weather/satellite;p=rand"); }
 
     connections allowunconnected:
         //* SGi/N6 fan-out: UPF ⇄ sgiSwitch ⇄ Both routers */
