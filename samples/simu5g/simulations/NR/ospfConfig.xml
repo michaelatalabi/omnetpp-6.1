@@ -1,0 +1,6 @@
+<OSPFASConfig>
+    <Router name="*" RFC1583Compatible="true">
+        <BroadcastInterface ifName="eth[*]" areaID="0.0.0.0" />
+        <PointToPointInterface ifName="ppp[*]" areaID="0.0.0.0" />
+    </Router>
+</OSPFASConfig>
