@@ -1,0 +1,15 @@
+<Router>
+    <Routing>
+        <EIGRP>
+            <ProcessIPv4 asNumber="1">
+                <Networks>
+                    <Network>
+                        <IPAddress>0.0.0.0</IPAddress>
+                        <Wildcard>255.255.255.255</Wildcard>
+                    </Network>
+                </Networks>
+            </ProcessIPv4>
+        </EIGRP>
+    </Routing>
+    <Routing6/>
+</Router>
