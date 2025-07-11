@@ -1,4 +1,15 @@
 <OSPFASConfig>
+    <Router name="router[*]" RFC1583Compatible="true">
+        <BroadcastInterface ifName="eth[*]" areaID="0.0.0.0" />
+        <PointToPointInterface ifName="ppp[*]" areaID="0.0.0.0" />
+        <PointToPointInterface ifName="ppp0" interfaceMode="NoOSPF" />
+    </Router>
+    <Router name="aircraft[*]" RFC1583Compatible="true">
+        <PointToPointInterface ifName="ppp[*]" areaID="0.0.0.0" />
+    </Router>
+    <Router name="sat[*]" RFC1583Compatible="true">
+        <PointToPointInterface ifName="ppp[*]" areaID="0.0.0.0" />
+=======
     <Router name="*" RFC1583Compatible="true">
         <BroadcastInterface ifName="eth[*]" areaID="0.0.0.0" />
         <PointToPointInterface ifName="ppp[*]" areaID="0.0.0.0" />
